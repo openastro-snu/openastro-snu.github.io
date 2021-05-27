@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "서울대학교 천문대 공개행사 진행준비단"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "서울대학교 '대학 연구성과 사회환원 프로그램' 중 '서울대학교 천문대 공개행사' 사업."
+  location         : "서울시 관악구 관악로1 (서울대학교)"
+  email            : "openastro.snu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
