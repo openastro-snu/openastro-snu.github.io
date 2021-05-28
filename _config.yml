@@ -20,7 +20,7 @@ title                    : "서울대학교 천문대 공개행사"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "공진단"
-description              : "공개행사 "
+description              : "공개행사"
 url                      : "http://astro2.snu.ac.kr/sub05/sub04.php" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "openastro-snu/openastro-snu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
