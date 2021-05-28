@@ -19,7 +19,7 @@ locale                   : "kr-KR"
 title                    : "서울대학교 천문대 공개행사"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "공진단"
 description              : "서울대학교 '대학 연구성과 사회환원 프로그램' 중 '서울대학교 천문대 공개행사' 사업."
 url                      : "http://astro2.snu.ac.kr/sub05/sub04.php" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
