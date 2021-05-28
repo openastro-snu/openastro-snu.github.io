@@ -12,3 +12,8 @@ $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Robo
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
+
+.page__lead {
+  font-family: $global-font-family;
+  font-size: $type-size-5;
+}
