@@ -4,9 +4,11 @@ main:
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /_pages/about.md
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    description: "공개행사에 관하여"
+  - title: "공식 홈페이지"
+    url: http://astro2.snu.ac.kr/sub05/sub04.php
+    description: "서울대 천문학전공 공식 홈페이지"
+#   - title: "Sample Collections"
+#     url: /collection-archive/
+#   - title: "Sitemap"
+#     url: /sitemap/
